@@ -377,7 +377,7 @@ u = unique(morb$Variable)
 write.csv(u,"C:\\Users\\mohammadia\\Desktop\\R\\unique_disease_complete name.csv", row.names = TRUE)
 t1 = all_countries[all_countries$Variable == "Mental and behavioural disorders",]
 write.csv(t1,"C:\\Users\\mohammadia\\Desktop\\R\\Countries\\Mental and behavioural disorders.csv", row.names = TRUE)
-################################################################################
-################################################################################
+#################################################################################
+#################################################################################
 
 
